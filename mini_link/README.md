@@ -23,9 +23,20 @@ Stats features were not implemented but they are few clicks away. Time was a bit
 I am open for disscussion regarding this.
 
 
-#what could be improved
+# what could be improved
 
     - Providing auto docs
     - Completing Stats
     - providing api for other apps to be used
     - implementing user login and registration
+
+# Screenshots:
+
+
+
+
+
+![Screennshot]([http://url/to/img.png](https://ibb.co/kXdTp8t))
+![Screennshot]([https://ibb.co/SX11h9d])
+![Screennshot]([http://url/to/img.png](https://ibb.co/phBbDSp))
+![Screennshot]([https://ibb.co/FsS3gkV])
