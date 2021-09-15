@@ -36,7 +36,11 @@ I am open for disscussion regarding this.
 
 
 
-![Screennshot]([http://url/to/img.png](https://ibb.co/kXdTp8t))
-![Screennshot]([https://ibb.co/SX11h9d])
-![Screennshot]([http://url/to/img.png](https://ibb.co/phBbDSp))
-![Screennshot]([https://ibb.co/FsS3gkV])
+[url=https://postimg.cc/rKVz1xzZ][img]https://i.postimg.cc/rKVz1xzZ/screencapture-localhost-8000-2021-09-15-11-41-30.png[/img][/url]
+
+[url=https://postimg.cc/Czc5m5qh][img]https://i.postimg.cc/Czc5m5qh/screencapture-localhost-8000-2021-09-15-11-42-43.png[/img][/url]
+
+[url=https://postimg.cc/75b6c43g][img]https://i.postimg.cc/75b6c43g/screencapture-localhost-8000-2021-09-15-11-42-51.png[/img][/url]
+
+[url=https://postimg.cc/VJT6Phg2][img]https://i.postimg.cc/VJT6Phg2/screencapture-localhost-8000-2021-09-15-11-43-04.png[/img][/url]
+
